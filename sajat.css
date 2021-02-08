@@ -1,0 +1,62 @@
+body{
+    background-color: lightblue;
+}
+
+#cim{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    margin: 50px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+
+}
+span{
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+    font-weight: bolder;
+    letter-spacing: 1px;
+}
+#szoveg{
+    text-align: center;
+}
+img{
+    width: 250px;
+}
+td{
+    border: 2px solid black;
+    
+}
+#tábla{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+    color: royalblue;
+}
+.felso{
+    color: darkblue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+    background-image: url(podaru.png);
+    background-repeat: repeat;
+    background-size: 50px;
+}
+hr{
+    border: 0,5px solid grey;
+}
+.egyebek{
+    text-align: center;
+}
+li{
+    list-style-type: square;
+    font-size: 20px;
+}
